@@ -1,1 +1,1 @@
-# QMPS stand for Qualitative Mechanical Problem Solving.
+# QMPS stands for Qualitative Mechanical Problem Solving.
